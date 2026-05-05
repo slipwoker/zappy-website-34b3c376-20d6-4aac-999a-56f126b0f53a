@@ -1,0 +1,73 @@
+# y.k.a — Generative Engine Optimization Map
+
+> Yossi Kazaz is an experienced business consultant operating under the brand y.k.a, specializing in serving small and medium-sized businesses. His core expertise includes building economic models, cash flow analysis and management, and preparing companies for sale through value enhancement. The brand projects professionalism, strategic thinking, and a results-driven approach tailored to business owners seeking growth and financial clarity.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Yossi Kazaz is an experienced business consultant operating under the brand y.k.a, specializing in serving small and medium-sized businesses. His core expertise
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About y.k.a
+Yossi Kazaz is an experienced business consultant operating under the brand y.k.a, specializing in serving small and medium-sized businesses. His core expertise includes building economic models, cash flow analysis and management, and preparing companies for sale through value enhancement. The brand projects professionalism, strategic thinking, and a results-driven approach tailored to business owners seeking growth and financial clarity.
+
+## Services/Products
+- ייעוץ עסקי לחברות קטנות ובינוניות
+- בניית מודל כלכלי
+- בניית וניתוח תזרים מזומנים
+- השבחת חברות לפני מכירה
+
+## Target Audience
+- חברות קטנות ובינוניות
+- בעלי עסקים קטנים ובינוניים
+- יזמים חדשים
+- מנהלי עסקים בצמיחה
+
+## Industry
+ייעוץ עסקי
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
